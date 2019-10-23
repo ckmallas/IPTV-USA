@@ -160,7 +160,7 @@ http://193.200.164.146:8080/savskiii/ya4rnLjeAq/548
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7779
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",TBS
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/578
-#EXTINF:-1 tvg-id="The Weather Channel HD" tvg-name="The Weather Channel HD" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/TheWeatherChannel.png",The Weather Channel
+#EXTINF:-1 tvg-id="The Weather Channel LIVE" tvg-name="The Weather Channel LIVE" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/TheWeatherChannel.png",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",TNT
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/549
