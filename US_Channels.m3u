@@ -2,60 +2,88 @@
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/AMC.png",AMC
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/521
+
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Boomerang.png",Boomerang
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/502
+
 #EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bravo.png",Bravo
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/541
+
 #EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bravo.png",Bravo Alt
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7790
+
 #EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CW.png",CW
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/543
+
 #EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CW.png",CW Alt
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7777
+
 #EXTINF:-1 tvg-id="Cartoon%20Network" tvg-name="Cartoon%20Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Cartoon_Network_UK.png",Cartoon Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/523
+
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax 5 StarMax
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/507
+
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax Action
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/567
+
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax ActionMax East
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/508
+
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax East
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/509
+
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax MoreMax
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/501
+
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Cinemax Action
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7789
+
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Cinemax More
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7768
+
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Comedy_Central.png",Comedy Central
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7788
+
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Discovery Channel CA FHD
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7580
+
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Discovery Channel
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7767
+
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Discovery Showcase
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/499
+
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Discovery
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/526
+
 #EXTINF:-1 tvg-id="Science" tvg-name="Science" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Discovery Science
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/510
+
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Discovery Velocity
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/527
+
 #EXTINF:-1 tvg-id="DISNEY" tvg-name="DISNEY" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Disney Channel
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7766
+
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Disney XD
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7765
+
 #EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",E! Entertainment
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7764
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 1
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7763
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 1
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/552
+
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 2 FHD
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/569
+
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 2
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7787
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/544
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",El Rey Network
