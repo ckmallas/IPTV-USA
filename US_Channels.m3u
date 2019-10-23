@@ -1,4 +1,4 @@
-#EXTM3U
+#EXT-M3U
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/AMC.png",AMC
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/521
