@@ -195,11 +195,11 @@ http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7737
 #EXTINF:-1 tvg-id="Showtime 2" tvg-name="Showtime 2" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime 2
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/534
 
-#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime East
+#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7736
 
-#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime FHD
-http://193.200.164.146:8080/savskiii/ya4rnLjeAq/535
+#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime East
+http://impulsetv.org:25461/Emmanuel/123456/41400
 
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Showtime Showcase
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7735
