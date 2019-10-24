@@ -1,265 +1,260 @@
 #EXT-M3U
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/AMC.png",AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/AMC.png",AMC
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/521
 
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Boomerang.png",Boomerang
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-type="live" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Boomerang.png",Boomerang
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/502
 
-#EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bravo.png",Bravo
+#EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bravo.png",Bravo
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/541
 
-#EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bravo.png",Bravo Alt
+#EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bravo.png",Bravo Alt
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7790
 
-#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CW.png",CW
+#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CW.png",CW
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/543
 
-#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CW.png",CW Alt
+#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CW.png",CW Alt
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7777
 
-#EXTINF:-1 tvg-id="Cartoon%20Network" tvg-name="Cartoon%20Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Cartoon_Network_UK.png",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon%20Network" tvg-name="Cartoon Network" tvg-type="live" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Cartoon_Network_UK.png",Cartoon Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/523
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Comedy_Central.png",Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-type="live" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Comedy_Central.png",Comedy Central
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7788
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Discovery Channel CA FHD
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Entertainment",Discovery Channel CA FHD
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7580
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Discovery Channel
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7767
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Discovery Showcase
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Entertainment",Discovery Showcase
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/499
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Discovery
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Discovery
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/526
 
-#EXTINF:-1 tvg-id="Science" tvg-name="Science" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Discovery Science
+#EXTINF:-1 tvg-id="Science" tvg-name="Science" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Discovery Science
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/510
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Discovery Velocity
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Entertainment",Discovery Velocity
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/527
 
-#EXTINF:-1 tvg-id="DISNEY" tvg-name="DISNEY" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Disney Channel
+#EXTINF:-1 tvg-id="DISNEY" tvg-name="DISNEY" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Disney Channel
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7766
 
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Disney XD
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Disney XD
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7765
 
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",E! Entertainment
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",E! Entertainment
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7764
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",El Rey Network
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Entertainment",El Rey Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7715
 
-#EXTINF:-1 tvg-id="Fox Network" tvg-name="Fox Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",FOX 43
+#EXTINF:-1 tvg-id="Fox Network" tvg-name="Fox Network" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",FOX 43
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/570
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",FX
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",FX
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/513
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",FX
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",FX
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7784
 
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Food Network
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Food Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/511
 
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Food Network
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Food Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7783
 
-#EXTINF:-1 tvg-id="Fox Network" tvg-name="Fox Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Fox
+#EXTINF:-1 tvg-id="Fox Network" tvg-name="Fox Network" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Fox
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/512
 
-#EXTINF:-1 tvg-id="FreeForm" tvg-name="FreeForm" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Free Form
+#EXTINF:-1 tvg-id="FreeForm" tvg-name="FreeForm" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Free Form
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/572
 
-#EXTINF:-1 tvg-id="FreeForm" tvg-name="FreeForm" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",FreeForm
+#EXTINF:-1 tvg-id="FreeForm" tvg-name="FreeForm" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",FreeForm
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7688
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",H2
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Entertainment",H2
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/514
 
-#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Hallmark Channel
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Hallmark Channel
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7746
 
-#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Hallmark
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Hallmark
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/515
 
-#EXTINF:-1 tvg-id="Hallmark Movies & Mysteries" tvg-name="Hallmark Movies & Mysteries" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-id="Hallmark Movies & Mysteries" tvg-name="Hallmark Movies & Mysteries" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Hallmark Movies & Mysteries
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/46888
 
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",History
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",History
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/546
 
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",History
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",History
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7781
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",IFC
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Entertainment",IFC
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7710
 
-#EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Investigation Discovery" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Investigation Discovery
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Investigation Discovery" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Investigation Discovery
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7693
 
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Lifetime
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Lifetime
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7745
 
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Nat Geo Wild
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Nat Geo Wild
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7692
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Nat Geographic
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Nat Geographic
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7691
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",National Geographic
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",National Geographic
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/517
 
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",SyFy
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",SyFy
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/548
 
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",SyFy Alt
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",SyFy Alt
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7779
 
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",TBS
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",TBS
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/578
 
-#EXTINF:-1 tvg-id="The Weather Channel LIVE" tvg-name="The Weather Channel LIVE" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/TheWeatherChannel.png",The Weather Channel
+#EXTINF:-1 tvg-id="The Weather Channel LIVE" tvg-name="The Weather Channel LIVE" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/TheWeatherChannel.png",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",TNT
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/549
 
-#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Travel Channel
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Travel Channel
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7694
 
-#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",truTV
+#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",truTV
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7705
 
-#EXTINF:-1 tvg-id="USA NETWORK" tvg-name="USA NETWORK" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",USA
+#EXTINF:-1 tvg-id="USA NETWORK" tvg-name="USA NETWORK" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",USA
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7729
 
-#EXTINF:-1 tvg-id="USA NETWORK" tvg-name="USA NETWORK" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",USA Network
+#EXTINF:-1 tvg-id="USA NETWORK" tvg-name="USA NETWORK" tvg-type="live" group-title="Entertainment" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",USA Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/547
 
-#EXTINF:-1,## Premium Channels ##
-http://
-
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax 5 StarMax
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",CineMax 5 StarMax
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/507
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax Action
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",CineMax Action
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/567
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax ActionMax East
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",CineMax ActionMax East
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/508
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax East
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",CineMax East
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/509
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax MoreMax
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",CineMax MoreMax
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/501
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Cinemax Action
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",Cinemax Action
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7789
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Cinemax More
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",Cinemax More
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7768
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",HBO Comedy
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",HBO Comedy
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/530
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",HBO East
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",HBO East
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/483
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",HBO Family
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",HBO Family
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7748
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",HBO
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",HBO
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/531
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",HBO Signature
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",HBO Signature
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7747
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",HBO Signature
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",HBO Signature
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/484
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",HBO
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",HBO
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7776
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",HBO Zone
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",HBO Zone
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/532
 
-#EXTINF:-1 tvg-id="Showtime 2" tvg-name="Showtime 2" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime 2
+#EXTINF:-1 tvg-id="Showtime 2" tvg-name="Showtime 2" tvg-type="live" group-title="Movie" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime 2
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7737
 
-#EXTINF:-1 tvg-id="Showtime 2" tvg-name="Showtime 2" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime 2
+#EXTINF:-1 tvg-id="Showtime 2" tvg-name="Showtime 2" tvg-type="live" group-title="Movie" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime 2
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/534
 
-#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime
+#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-type="live" group-title="Movie" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7736
 
-#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime East
+#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-type="live" group-title="Movie" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Showtime East
 http://impulsetv.org:25461/Emmanuel/123456/41400
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Showtime Showcase
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",Showtime Showcase
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7735
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Showtime West
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",Showtime West
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/485
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Starz Cinema
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",Starz Cinema
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/536
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Starz Comedy
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",Starz Comedy
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/537
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Starz Edge
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",Starz Edge
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/519
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Starz Edge
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Movie",Starz Edge
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7780
 
-#EXTINF:-1 tvg-id="StarZ Encore" tvg-name="StarZ Encore" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Starz Encore
+#EXTINF:-1 tvg-id="StarZ Encore" tvg-name="StarZ Encore" tvg-type="live" group-title="Movie" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Starz Encore
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7731
 
-#EXTINF:-1 tvg-id="StarZ Encore" tvg-name="StarZ Encore" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Starz Encore
+#EXTINF:-1 tvg-id="StarZ Encore" tvg-name="StarZ Encore" tvg-type="live" group-title="Movie" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Starz Encore
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/538
 
-#EXTINF:-1,## Sports Networks ##
-https://
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 1
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="Sports" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 1
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7763
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 1
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="Sports" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 1
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/552
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 2 FHD
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-type="live" group-title="Sports" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 2 FHD
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/569
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-type="live" group-title="Sports" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN 2
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7787
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="Sports" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",ESPN
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/544
 
-#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NFL Network 1
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-type="live" group-title="Sports" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NFL Network 1
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/504
 
-#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NFL Network FHD
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-type="live" group-title="Sports" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NFL Network FHD
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/505
 
-#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NFL Network
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-type="live" group-title="Sports" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NFL Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/556
 
-#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NFL Network
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-type="live" group-title="Sports" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NFL Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7793
 
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",NFL Now
+#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="Sports",NFL Now
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7773
 
-#EXTINF:-1 tvg-id="NFL Redzone" tvg-name="NFL Redzone" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NFL Redzone
+#EXTINF:-1 tvg-id="NFL Redzone" tvg-name="NFL Redzone" tvg-type="live" group-title="Sports" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NFL Redzone
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7772
 
-#EXTINF:-1 tvg-id="NHL Network" tvg-name="NHL Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NHL Network
+#EXTINF:-1 tvg-id="NHL Network" tvg-name="NHL Network" tvg-type="live" group-title="Sports" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",NHL Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/576
